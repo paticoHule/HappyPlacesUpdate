@@ -8,7 +8,7 @@
     <string name="btn_text_save">SAVE</string>
     <string name="note_text_no_happy_places_found_yet"> Aún no se han encontrado lugares felices. agregue uno </string>
     <string name="image_content_description">image</string>
-    <string name="google_maps_api_key">AIzaSyBHS7hlLUvOlXFQHMozsQ4e6WH3KTGQhF8</string>
+    <string name="google_maps_api_key">You_key_here</string>
 
     <string name="btn_text_view_on_map">VIEW ON MAP</string>
 
